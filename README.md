@@ -30,11 +30,11 @@
 
 ### My GitHub Stats
 
-[![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohit-on-github&show_icons=true&theme=gruvbox&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
+[![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=i-m-mohit&show_icons=true&theme=gruvbox&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My GitHub Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohit-on-github&theme=gruvbox)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=i-m-mohit&theme=gruvbox)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 
 <!---
